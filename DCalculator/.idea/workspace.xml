@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list id="de136a12-602c-4ae8-a843-534bcbe22d85" name="Default" comment="" />
     <list default="true" id="adacac0b-4908-4574-82bd-4840bd97c0db" name="Liquibase Setup" comment="Liquibase Setup">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DCalculatorDatabase/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DCalculatorDatabase/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/DCalculatorAPI/target/" />
@@ -1717,12 +1715,12 @@
       <updated>1507578199877</updated>
       <workItem from="1507578204945" duration="5900000" />
       <workItem from="1507650272526" duration="2438000" />
-      <workItem from="1507838326083" duration="2007000" />
+      <workItem from="1507838326083" duration="2120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10345000" />
+    <option name="totallyTimeSpent" value="10458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="33" width="2395" height="1296" extended-state="0" />
