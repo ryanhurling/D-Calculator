@@ -2,6 +2,6 @@
 DCalculator/.DS_Store
 DCalculator/.idea/
 DCalculatorDatabase/.idea/
-
+.idea/
 *.iml
-DCalculator/.idea/workspace.xml
+workspace.xml
