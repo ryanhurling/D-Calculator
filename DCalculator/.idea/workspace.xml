@@ -6,10 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list id="de136a12-602c-4ae8-a843-534bcbe22d85" name="Default" comment="" />
     <list default="true" id="adacac0b-4908-4574-82bd-4840bd97c0db" name="Liquibase Setup" comment="Liquibase Setup">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DCalculatorDatabase/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DCalculatorDatabase/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="de136a12-602c-4ae8-a843-534bcbe22d85" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/DCalculatorAPI/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/DCalculatorDomainAPI/target/" />
@@ -1720,7 +1721,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10458000" />
+    <option name="totallyTimeSpent" value="10819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="33" width="2395" height="1296" extended-state="0" />
@@ -1768,6 +1769,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Updating gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
