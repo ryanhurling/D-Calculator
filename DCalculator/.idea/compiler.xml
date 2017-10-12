@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DCalculatorAPI" />
+        <module name="DCalculatorCore" />
+        <module name="DCalculatorDomainAPI" />
+        <module name="DCalculatorService" />
+        <module name="DCalculatorWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DCalculator" target="1.5" />
+      <module name="DCalculatorAPI" target="1.8" />
+      <module name="DCalculatorCore" target="1.8" />
+      <module name="DCalculatorDomainAPI" target="1.8" />
+      <module name="DCalculatorService" target="1.8" />
+      <module name="DCalculatorWeb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

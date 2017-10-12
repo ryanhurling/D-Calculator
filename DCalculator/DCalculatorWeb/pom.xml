@@ -1,0 +1,43 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <artifactId>DCalculator</artifactId>
+        <groupId>com.rhurling</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>DCalculatorWeb</artifactId>
+    <version>${project.version}</version>
+    <packaging>war</packaging>
+    <name>DCalculatorWeb</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.rhurling</groupId>
+            <artifactId>DCalculatorCore</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mortbay.jetty.alpn</groupId>
+            <artifactId>alpn-boot</artifactId>
+        </dependency>
+    </dependencies>
+    <build>
+        <finalName>DCalculatorWeb</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+</project>
