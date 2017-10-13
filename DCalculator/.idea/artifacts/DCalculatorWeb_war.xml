@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="DCalculatorWeb:war">
-    <output-path>$PROJECT_DIR$/DCalculatorWeb/target</output-path>
-    <root id="archive" name="DCalculatorWeb.war">
-      <element id="artifact" artifact-name="DCalculatorWeb:war exploded" />
-    </root>
-  </artifact>
-</component>
