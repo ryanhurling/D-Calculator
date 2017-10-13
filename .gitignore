@@ -5,4 +5,5 @@ DCalculatorDatabase/.idea/
 .idea/
 *.iml
 workspace.xml
+.idea/*.xml
 DCalculator/.idea/workspace.xml
