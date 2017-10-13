@@ -7,3 +7,4 @@ DCalculatorDatabase/.idea/
 workspace.xml
 .idea/*.xml
 DCalculator/.idea/workspace.xml
+target/
